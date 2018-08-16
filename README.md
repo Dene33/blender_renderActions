@@ -78,4 +78,4 @@
 <p>
     <br>
 </p>
-<p>You also can download this add-on absolutely free from <a href="https://github.com/Dene33/blender_renderActions">github</a>    But feel free to buy it if you'll find it useful! Thank you!</p>
+<p>You also can purchase this add-on on <a href="https://dener.itch.io/character-renderer-for-2d-games">itch.io</a> and blendermarket with example .blend file Thank you!</p>
