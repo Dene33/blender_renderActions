@@ -78,4 +78,4 @@
 <p>
     <br>
 </p>
-<p>You also can purchase this add-on on <a href="https://dener.itch.io/character-renderer-for-2d-games">itch.io</a> and blendermarket with example .blend file Thank you!</p>
+<p>You also can purchase this add-on on <a href="https://dener.itch.io/character-renderer-for-2d-games">itch.io</a> and <a href="https://blendermarket.com/products/character-renderer-for-2d-games">blendermarket</a> with example .blend file Thank you!</p>
